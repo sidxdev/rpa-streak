@@ -1,5 +1,7 @@
 # Data files
 data/*.csv
+*.xlsx
 
 # RPA files
-rpa*.log
+rpa_*
+tagui*
