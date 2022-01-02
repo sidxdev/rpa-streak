@@ -1,0 +1,5 @@
+# Data files
+data/*.csv
+
+# RPA files
+rpa*.log
